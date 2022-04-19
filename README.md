@@ -65,7 +65,7 @@ What's left is to compress the whole folder in a zip file and upload it to Azure
 
 ### Release process tasks:
 - [Azure Resource Group Deployment](https://aka.ms/argtaskreadme)
-  - Template: select from the artifact in the Templates folder.
+  - Template: select from the artifact in the templates folder.
   - Template Parameters: same as previous parameter.
   - Override template parameters: At least modify the -p_environment variable.
 - [Azure App Service Deploy](https://aka.ms/azurermwebdeployreadme)
